@@ -1,0 +1,7 @@
+
+@bg-color:#f80;
+@color-text:#000;
+
+.navbar{ background:@bg-color ;}
+a{color:@color-text !important;}
+
